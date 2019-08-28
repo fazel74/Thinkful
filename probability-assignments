@@ -19,5 +19,5 @@ The probability that the test will be:
 
 3) Correctly identify a non-sufferrer of Thripshaws: 90%
 
-4) -
+4) 1 - (98% * 0.5% + 90% * 99.5%) = 99.6%
 
