@@ -1,0 +1,31 @@
+
+1)	Does a new supplement help people sleep better?
+First we select a group of people who are willing to participate in the experience and survey them. We try to do our selection 
+randomly in a way that include all diversities like female and male in various age categories. Then We divide the selection in 
+two group of samples. The sample group which use the supplement and the sample group which do not. Then we ask them to tell us 
+about their experience. Our hypothesis is that the supplement will help people sleep better, and we can find it out from people 
+responses who used the supplement and reported that how long lass takes to fall sleep. Other measurement variables can be the 
+total time they sleep and the quality of their sleep if they with supplement sleep more and better. 
+
+
+2)	Will new uniforms help a gym’s business?
+We start to collect data for new gym’s registration a period of time for example a month while we give new members the old uniforms.
+After that period we start to give new members the new uniforms and keep track of the data about number of new members. Our 
+hypothesis is that the new uniforms that have a better design will interest people and bring them more for registration. Then we can
+compare the numbers of new member for each month. While we collecting the data regard to our members, we can observe that each member
+how many times during a week comes to gym, does absent, or leaves the gym.  
+
+3)	Will a new homepage improve my online exotic pet rental business?
+First we choose two periods of time that have the same conditions. For example two week of a regular season which are not under 
+influence of any event or holiday. Then we collect the data regard to the homepage’s visitors on the old version. For the second week
+we launch the new version of the homepage, and collet data of visitors. We expect that the new version is going to bring us more 
+customers. If the number of customer gets higher with the new homepage, that means the new version in the better one. We can also 
+observe other factors of people behavior regard to our business homepage. For example number of visits, spending time on the homepage,
+and number of clicks can be compared between two versions of the homepage.
+
+
+4)	If I put 'please read' in the email subject will more people read my emails?
+We split the random selected email addresses in two different group, and we send our email to each group one with ‘Please Read’ 
+and one without. We expect that more people respond to the email with ‘Please Read’. If more people respond that means that the email
+with ‘Please Read’ get more their attention. We can also look for other data regard to our email marketing like number of people who
+read but do not respond, and number of opt-outs.
