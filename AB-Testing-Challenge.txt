@@ -1,0 +1,59 @@
+
+
+1) Recruiting slogan, A/B Testing:
+
+FLAWS: It seems that the experiment does not randomize its sampling method. There is no evedince that the two groups are similar to 
+       population. And also the number of attepts do not sound enough to conclude the result. 
+
+CORRECTIONS: Reviewing the sampling methods is necessory to make sure on a demographic/psychographic profile of the typical captive 
+             droid recruit. The conclusion should be done after many attemps to make sure the attemps' resuls are the same. If there is
+	     is not more subjects for doing more attemps, it is better to do experiment with smaller groups in many times. 
+
+
+
+2) Public relations, A/B Testing:
+
+FLAWS: The friendly and unfreindly planets are not assigned fairly to Jar Jar and Mace, so their results cannot be compared correctly.
+       In Fact, Mace did a better job because had to make friends between unfreindly side of the population.
+
+CORRECTIONS: The Jedi should give both envoys equal samples that means 2 freindly and 2 unfreindly planets to each. In this case the
+	     envoys have same oportunity to show their ability for the job. The Jedi can compare the results just by giving the envoys 
+	     similar samples.
+
+
+
+3) Employee satisfaction rates, A/A Testing: 
+
+FLAWS: The experiment doesn't account for the functional concentration differences by worksite. The resulting workload impacts, or 
+       other country-related factors that may be influencing employee satisfaction. The calculated averages cannot be correctly 
+       compared because they are biased for non equal distribution in different countries.
+
+CORRECTIONS: We can introduce other measurement factors in our experiment like job invironment and environment satisfaction,and 
+             copmpare the averages considering these factors. We can also seperate the population in groups with common departments 
+             and common worksites, Then calculate their statistics and compare them to have clear results. 
+
+
+
+4) Happy Days Fitness Tracker app, A/A Testing: 
+
+FLAWS: The experiment include bias because it is obvious that at beginning of gym activities everybody's physical activity level rises
+       steadly. It is a false positive, and the fitness claims on a wrong factor.  
+
+CORRECTIONS: The fitness should claim on other extracted results from its app like average number of people who stay in long period, 
+             and members satisfaction. They may consider measurment of physical activity level during a certain time.
+
+
+
+5) Three versions of a test, A/B Testing: 
+
+FLAWS: Althogh the distribution of test seems to be random, but students have choice to seat anywhere they want. In this case, a groub 
+       of students with the same version of test may seat close together and cheat. So, the result can be influenced by cheating and
+       not just difficulty level of that version. The number of tries to conclude the result might not be enough.
+
+
+CORRECTIONS: The best way to distribute different versions of a test in a systematic distribution. Teacher should use this method
+             to make sure that cheating will not happen. In that case, he or she can conclude correctly the results. Also teacher 
+             may try the experiment another time for another class or group of student to compare the results and conclude more 
+             accurate.
+
+
