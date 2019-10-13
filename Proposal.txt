@@ -1,0 +1,27 @@
+
+The Research Proposal
+
+"The Sith Lords are concerned that their recruiting slogan, "Give In to Your Anger," isn't very effective."
+
+The problem
+How to increase number of converted droids to the dark side? If droids don't convert to the dark side, it means
+that there is a potential possibility to become favorable toward the Jedi. It will decrease the power of the Sith Lords
+in the Galaxy.
+
+
+The Potential Solution
+
+Changing the current recruiting slogan to a more effective one. An effective slogan is very important to achieve the goal, 
+and droids mostly respond positive when they are impacted by a good and effective slogan.
+
+
+The method of testing the solution
+
+First we determine two effective slogans; we can choose the current slogan, and another new slogan, or both new.
+Now we attentively make two group samples to be similar in number, distribution, and chatacteristics of droids, in other words 
+to have them randomized as much as possible. Then we deliver the messages with each slogans to its target group. To track the
+effectiveness of the slogans, we count the positive results of messages back. If the number of converted droids for a slogan 
+is pretty much higher than the other, we can conclude that that slogan is more effective, and continue recruiting with that slogan.
+If there is no signifcant difference between the results, we should repeat the experience with two new groups and change both or one
+of the slogans.
+
