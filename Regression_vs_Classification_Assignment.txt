@@ -1,0 +1,39 @@
+For each of the following situations, decide if you would model using a regression or classification model.
+
+
+1. The amount a person will spend on a given site in the next 24 months.
+
+	regression, because the amount of spendig is a continous variable.
+
+
+2. What color car someone is going to buy. 
+
+	classification, because a variable for colors is considered categorical.
+
+	
+3. How many children a family will have.
+
+ 	classification or even regression, if we need to categorize families with certain numbers of
+	children, it can be a categorical variable, and if we need to study some statistics on that, 
+	it can ba a continous variable. 
+
+
+4. If someone will sign up for a service. 
+
+	classification, there is just two possibilities: Yes or No
+	So, it is a categorical variable.
+
+
+5. The number of times someone will get sick in a year. 
+
+	classification, a person might get sick in a year a certain discrete numbers.
+	So, it is a categorical variable.
+
+6. The probability someone will get sick in the next month. 
+
+	regression, the probability is a continous variable.
+
+7. Which medicine will work best for a given patient. 
+
+	classification, there could be a certain discrete numbers of medicins.
+	So, it is a categorical variables.
