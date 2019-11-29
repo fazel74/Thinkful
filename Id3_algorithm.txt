@@ -1,0 +1,27 @@
+Algorithm(Observations, Outcome, Attributes)
+    Create a root node.
+    If all observations are 'A', label root node 'A' and return.
+    If all observations are 'B', label root node 'B' and return.
+    If no attributes return the root note labeled with the most common Outcome.
+    Otherwise, start:
+        For each value vi of each attribute ai, calculate the entropy.
+        The attribute ai and value vi with the lowest entropy is the best rule.
+        The attribute for this node is then ai
+            Split the tree to below based on the rule ai = vi
+            Observationsvi is the subset of observations with value vi
+            If Observationsvi is empty cap with node labeled with most common Outcome
+            Else at the new node start a subtree (Observationsvi, Target Outcome, Attributes - {ai}) and repeat the algorithm
+            
+            
+            
+MakeTree()
+          Majirity()
+                    if A, return A
+                    if B, return B
+                    otherwise:
+                              ChooseAttr()
+                                          gain()
+                                                entropy()
+                               loop: getExample()
+          loop: getValues()
+return tree                               
