@@ -1,0 +1,44 @@
+Challenge: Which model?
+
+You now have a fairly substantial starting toolbox of supervised learning methods that you can use to tackle a host of 
+exciting problems. To make sure all of these ideas are organized in your mind, please go through the list of problems below.
+For each, identify which supervised learning method(s) would be best for addressing that particular problem. Explain your
+reasoning and discuss your answers with your mentor.
+
+1.Predict the running times of prospective Olympic sprinters using data from the last 20 Olympics.
+- Regression; it seems that data follows a pattern; a linear regression could be a good model.  
+
+
+2.You have more features (columns) than rows in your dataset.
+- Decision Tree might be a good model, but all depends on meaning of the data. We probably need to run some data transformation 
+and feature selection methods.
+
+
+3.Identify the most important characteristic predicting likelihood of being jailed before age 20.
+- SVM, or better than that a gradient boosting model is capable to determine the importance.
+
+
+4.Implement a filter to “highlight” emails that might be important to the recipient
+- This is a classification. Naive Bayse can be used like spam classifier.
+
+
+5.You have 1000+ features.
+- We need feature selection more than anything else. To choose a model, we need more information about data. A regression
+or decision tree model might be useful.
+
+
+6.Predict whether someone who adds items to their cart on a website will purchase the items.
+- This is a classification. We can use random forest of decision tree classifire as a model.
+
+
+7.Your dataset dimensions are 982400 x 500
+- We need feature selection and to determine hyperparameter. A regression model might be a good model.
+
+
+8.Identify faces in an image.
+- Face rcognition needs to work on a high volume of data. SVM might be a good model for this problem.
+
+
+9.Predict which of three flavors of ice cream will be most popular with boys vs girls.
+- This is another classification. Random forest might be a good model.
+
