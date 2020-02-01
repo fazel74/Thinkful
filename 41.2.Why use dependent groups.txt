@@ -1,0 +1,8 @@
+Thinking Like a Data Scientist
+Why use dependent groups? Come up with a few scenarios where getting repeated measures from the same people would be beneficial. Summarize them in your notebook and discuss with your mentor.
+
+1. Sucial behavior survey: Doing the same survery in years and possibly collection answers from the same participants to measure differences in answers between different years.
+
+2. Sport teams Popularity: Studying sports teams popularity by doing surveys in years or league seasons from theirs fans. 
+
+3. So many others studies in which it is important to know the changes during time.
